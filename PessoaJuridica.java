@@ -1,4 +1,4 @@
-public class Juridica extends Pessoa {
+public class PessoaJuridica extends Pessoa {
     private String cnpj;
 
     public String getCnpj() {

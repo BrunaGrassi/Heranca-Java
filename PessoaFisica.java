@@ -1,4 +1,4 @@
-public class Fisica extends Pessoa {
+public class PessoaFisica extends Pessoa {
     private String cpf;
 
     public String getCpf() {
